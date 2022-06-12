@@ -7,7 +7,7 @@ www.thomasobrien-portfolio.net
 
 ## Tech Stack
 
-I started with AWS Amplify, however, I moved over to Heroku after learning Amplify does not support Node.JS servers. I rely on Node.JS for API needed on my Contact page.
+I started with AWS Amplify, however, I moved over to Heroku after learning Amplify does not support Node.JS servers. I use Node.JS for the backend, hence why I use Heroku.
 
 ### Front End
 React.JS, Material UI (MUI)
